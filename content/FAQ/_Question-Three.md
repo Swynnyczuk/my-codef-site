@@ -3,11 +3,11 @@ title: "What are your Business Hours?"
 date: 2022-07-12T14:51:34+01:00
 draft: false
 ---
-Mon:	7:30 AM – 11:30 PM
-Tue:	7:30 AM – 11:30 PM
-Wed:	7:30 AM – 11:00 PM
-Thu:	7:30 AM – 11:00 PM
-Fri:	7:30 AM – 11:30 PM
-Sat:	7:30 AM – 11:30 PM
-Sun:	7:30 AM – 11:30 PM
+**Mon**:	_7:30 AM – 11:30 PM_
+**Tue**:	_7:30 AM – 11:30 PM_
+**Wed**:	_7:30 AM – 11:00 PM_
+**Thu**:	_7:30 AM – 11:00 PM_
+**Fri**:	_7:30 AM – 11:30 PM_
+**Sat**:	_7:30 AM – 11:30 PM_
+**Sun**:	_7:30 AM – 11:30 PM_
 

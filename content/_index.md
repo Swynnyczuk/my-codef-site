@@ -19,7 +19,7 @@ Amongst those with a fierce ambition to unleash scholastic victory, I am a train
 
 >
 * To teach the skills involved in advancing intellectual performance. 
-* To Offer supportive feedback on progress towards goals. 
+* To offer supportive feedback on progress towards goals. 
 * To give professional advice for individuals studying SATs to A-Levels.
 * To make sure 100% of my students pass first time around, consistently assessing areas of improvement when working through test questions. 
 

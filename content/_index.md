@@ -17,7 +17,6 @@ Amongst those with a fierce ambition to unleash scholastic victory, I am a train
 
 # My Aims:
 
->
 * To teach the skills involved in advancing intellectual performance. 
 * To offer supportive feedback on progress towards goals. 
 * To give professional advice for individuals studying SATs to A-Levels.
